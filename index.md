@@ -9,7 +9,7 @@ vert’ueux ? "
 
 Tous les enfants, adultes, associations, commerces ... peuvent répondre à ce sujet, par le biais de [formulaire](test.fr), en envoyant un mail à contact-123durable@googlegroups.com ou en se rendant dans un de nos [commerces partenaires](test.fr).
 
-Vous pouvez trouver le réglement de cette appel à idées détaillé sur [ce lien](test.fr)
+Vous pouvez trouver le réglement de cette appel à idées détaillé sur [ce lien](/Reglement_Appel_Idee.pdf)
 
 
 # [](#header-2) Un événement ludique le 2 juin 2018, Place de la Croix Rousse
