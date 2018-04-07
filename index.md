@@ -30,7 +30,7 @@ Enfin pour vous accompagner dans une transformation au quotidien, nous allons r�
 
 # [](#header-3)Partenaires et labels
 
-Cet événement qui s'inscrit dans le cadre de ![la semaine du Développement Durable](http://evenements.developpement-durable.gouv.fr/campagnes/sedd2018/presentation-semaine-europeenne-du-developpement-durable) est soutenu par la ville de Lyon et la mairie du 4eme arrondissement. 
+Cet événement qui s'inscrit dans le cadre de [la semaine du Développement Durable](http://evenements.developpement-durable.gouv.fr/campagnes/sedd2018/presentation-semaine-europeenne-du-developpement-durable) est soutenu par la ville de Lyon et la mairie du 4eme arrondissement. 
 Il est également labellisé Lyon Ville Equitable et Durable.
 
 <a  href="https://www.lyon.fr/economie/economie-sociale-et-solidaire/le-label-lyon-ville-equitable-et-durable"><img src="documents/LVED.jpg" alt="LVED" style="width: 100px;"/></a>
