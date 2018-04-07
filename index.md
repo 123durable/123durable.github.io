@@ -27,3 +27,5 @@ Enfin pour vous accompagner dans une transformation au quotidien, nous allons r�
 
 Cet événement qui s'inscrit dans le cadre de la semaine du Développement Durable est soutenu par la ville de Lyon et la mairie du 4eme arrondissement. 
 Il est également labellisé Lyon Ville Equitable et Durable.
+
+[![LVED](documents/LVED.jpg)](https://www.lyon.fr/economie/economie-sociale-et-solidaire/le-label-lyon-ville-equitable-et-durable)
