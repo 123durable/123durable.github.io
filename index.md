@@ -29,3 +29,4 @@ Cet événement qui s'inscrit dans le cadre de la semaine du Développement Dura
 Il est également labellisé Lyon Ville Equitable et Durable.
 
 [![LVED](documents/LVED.jpg)](https://www.lyon.fr/economie/economie-sociale-et-solidaire/le-label-lyon-ville-equitable-et-durable)
+<img src="documents/LVED.jpg" alt="LVED" style="width: 100px;"/>
