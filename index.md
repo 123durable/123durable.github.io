@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iNkfXaI04ZA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 # [](#header-1) Appel à idées
 
 "Si vous aviez une baguette magique, que changeriez vous dans le quartier pour rendre votre quotidien plus
