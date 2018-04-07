@@ -7,7 +7,11 @@ layout: default
 
 "Si vous aviez une baguette magique, que feriez-vous pour rendre votre quartier plus vert’ueux ?"
 
-Tous les enfants, adultes, associations, commerces ... peuvent répondre à ce sujet, par le biais du [formulaire](https://framaforms.org/appel-a-idees-vertueuses-1518976327), ou en envoyant un mail à contact-123durable@googlegroups.com ou en se rendant dans un de nos commerces partenaires (liste à venir).
+Tous les enfants, adultes, associations, commerces ... peuvent répondre à ce sujet, par : 
+
+* le biais du [formulaire](https://framaforms.org/appel-a-idees-vertueuses-1518976327)
+* en envoyant un mail à contact-123durable@googlegroups.com 
+* en se rendant dans un de nos commerces partenaires (liste à venir)
 
 Vous pouvez trouver le règlement de cet appel à idées dans [ce pdf](documents/Reglement_Appel_Idee.pdf)
 
