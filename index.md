@@ -27,5 +27,6 @@ Enfin pour vous accompagner dans une transformation au quotidien, nous allons r�
 
 Cet événement qui s'inscrit dans le cadre de la semaine du Développement Durable est soutenu par la ville de Lyon et la mairie du 4eme arrondissement. 
 Il est également labellisé Lyon Ville Equitable et Durable.
+
 <a  href="https://www.lyon.fr/economie/economie-sociale-et-solidaire/le-label-lyon-ville-equitable-et-durable"><img src="documents/LVED.jpg" alt="LVED" style="width: 100px;"/></a>
 <a  href="https://www.lyon.fr/actualite/conseils-de-quartier/apicq-2018-cest-parti"><img src="documents/VilleDeLyon.jpg" alt="Ville de Lyon" style="width: 100px;"/></a>
