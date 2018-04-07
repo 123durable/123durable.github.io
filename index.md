@@ -5,7 +5,7 @@ layout: default
 
 # [](#header-1) Appel à idées
 
-"Si vous aviez une baguette magique, que feriez-vous pour rendre votre quartier plus vert’ueux ?"
+**"Si vous aviez une baguette magique, que feriez-vous pour rendre votre quartier plus vert’ueux ?"**
 
 Tous les enfants, adultes, associations, commerces ... peuvent répondre à ce sujet, par : 
 
@@ -20,9 +20,9 @@ Vous pouvez trouver le règlement de cet appel à idées dans [ce pdf](documents
 
 Afin d'initier votre famille, vos amis, vos voisins au développement durable, nous vous proposons une journée de jeux et d'animations pour toutes et tous avec l'aide de nombreux partenaires spécialistes de la question !
 
-Cette journée aura lieu le samedi 2 juin 2018, place de la Croix Rousse 69004 Lyon (place à confirmer), de 10h à 18h ! 
+**Cette journée aura lieu le samedi 2 juin 2018, place de la Croix Rousse 69004 Lyon (place à confirmer), de 10h à 18h !** 
 
-A noter également la projection du fil FoodCoop le vendredi 1er juin à 21h à la Maison des Associations, 28 Rue Denfert Rochereau, 69004 Lyon.
+A noter également la projection du film **FoodCoop** le vendredi 1er juin à 21h à la Maison des Associations, 28 Rue Denfert Rochereau, 69004 Lyon.
 
 # [](#header-3)Guide pour une Croix Rousse durable 
 
