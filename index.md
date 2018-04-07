@@ -22,3 +22,8 @@ A noter également la projection du fil FoodCoop le vendredi 1er juin à 21h à 
 # [](#header-3)Guide pour une Croix Rousse durable 
 
 Enfin pour vous accompagner dans une transformation au quotidien, nous allons rédiger avec des habitants du quartier un guide qui mettra en valeur des gestes et des lieux contribuant au développement durable dans notre quartier. Il sera en libre distribution le 2 juin et vous pourrez aussi le retrouver en téléchargement sur ce site.
+
+# [](#header-3)Partenaires et labels
+
+Cet événement qui s'inscrit dans le cadre de la semaine du Développement Durable est soutenu par la ville de Lyon et la mairie du 4eme arrondissement. 
+Il est également labellisé Lyon Ville Equitable et Durable.
