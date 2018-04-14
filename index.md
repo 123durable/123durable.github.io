@@ -11,7 +11,7 @@ Tous les enfants, adultes, associations, commerces ... peuvent répondre à ce s
 
 * le biais du [formulaire](https://framaforms.org/appel-a-idees-vertueuses-1518976327)
 * en envoyant un mail à contact-123durable@googlegroups.com 
-* en se rendant dans un de nos commerces partenaires (liste à venir)
+* en se rendant dans un de nos partenaires (ci dessous)
 
 Vous pouvez trouver le règlement de cet appel à idées dans [ce pdf](documents/Reglement_Appel_Idee.pdf)
 
