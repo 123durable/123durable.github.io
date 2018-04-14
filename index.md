@@ -15,6 +15,7 @@ Tous les enfants, adultes, associations, commerces ... peuvent répondre à ce s
 
 Vous pouvez trouver le règlement de cet appel à idées dans [ce pdf](documents/Reglement_Appel_Idee.pdf)
 
+<iframe width="100%" height="300px" frameBorder="0" src="https://umap.openstreetmap.fr/fr/map/123durable-partenaire-appel-a-idee_212938?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="https://umap.openstreetmap.fr/fr/map/123durable-partenaire-appel-a-idee_212938">Voir en plein écran</a></p>
 
 # [](#header-2) Un événement convivial et ludique le 2 juin 2018, à la Croix Rousse
 
