@@ -21,7 +21,7 @@ Vous pouvez trouver le règlement de cet appel à idées dans [ce pdf](documents
 
 Afin d'initier votre famille, vos amis, vos voisins au développement durable, nous vous proposons une journée de jeux et d'animations pour toutes et tous avec l'aide de nos nombreux partenaires spécialistes de la question!
 
-**Cette journée aura lieu samedi 2 juin 2018, place de la Croix Rousse 69004 Lyon (place à confirmer), de 10h à 18h!** 
+**Cette journée aura lieu samedi 2 juin 2018, esplanade du Gros Caillou 69004 Lyon, de 10h à 18h!** 
 
 A noter également, la projection du film **FoodCoop** vendredi 1er juin 21h, à la Maison des Associations, 28 Rue Denfert Rochereau, 69004 Lyon.
 
