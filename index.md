@@ -27,7 +27,7 @@ A noter également, la projection du film **FoodCoop** vendredi 1er juin 20h30, 
 
 # [](#header-3)Guide pour une Croix Rousse durable 
 
-Enfin pour vous accompagner dans une transformation au quotidien, nous allons rédiger avec des habitants du quartier un guide qui mettra en valeur des gestes et des lieux contribuant au développement durable dans notre quartier. Il sera en libre distribution le 2 juin et vous pourrez aussi le retrouver en téléchargement sur ce site.
+Enfin pour vous accompagner dans une transformation au quotidien, nous allons rédiger avec des habitants du quartier un guide qui mettra en valeur des gestes et des lieux contribuant au développement durable dans notre quartier. Il sera en libre distribution le 2 juin et vous pourrez aussi le retrouver en [téléchargement](documents/GUIDE-V3.pdf) sur ce site.
 
 # [](#header-3)Partenaires et labels
 
